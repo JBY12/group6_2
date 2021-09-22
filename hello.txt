@@ -1,1 +1,3 @@
 hello!
+
+bye.txt (2) и добавить третий файл fact.txt
